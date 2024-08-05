@@ -11,7 +11,13 @@
 > 
 > The aim of the ExchangeXpert project is to provide investors with a powerful, AI-driven platform that simplifies the process of stock trading and investment. By leveraging cutting-edge artificial intelligence and machine learning technologies.
 
-### User Stories
+### User Roles
+#### Admin
+- As an admin, I want to view a list of all user accounts, so I can monitor user activity and manage the platform effectively.
+- As an admin, I want to monitor all automated trading strategies set up by users, so I can ensure compliance with platform policies.
+- As an admin, I want to send notifications to users about significant market events, so they are informed and can make timely decisions.
+
+#### Normal User
 - As a user, I want to view recommended stocks, so I can easily find investment opportunities.
 - As a user, I want to set up automated trading strategies, so I can take advantage of market opportunities without constant monitoring.
 - As a user, I want to receive notifications for significant market events and updates on my investments, so I can stay informed and take timely actions.
