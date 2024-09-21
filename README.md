@@ -26,10 +26,14 @@
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
-###  CExchangeXpert is built using the following technologies:
+###  ExchangeXpert is built using the following technologies:
 
 - This project uses the [React library](https://reactjs.org/) for building user interfaces. React allows us to develop efficient and scalable front-end applications with its component-based architecture, making it ideal for real-time data updates and complex UI designs.
-- Our AI and machine learning models are implemented using [TensorFlow](https://www.tensorflow.org/) and [Scikit-learn](https://scikit-learn.org/). TensorFlow is an open-source library used for building and deploying machine learning models, while Scikit-learn offers efficient tools for data analysis and model training.
+- [Laravel](https://laravel.com/) serves as the backend framework, handling API requests, authentication, and server-side logic. It ensures the application is secure, scalable, and maintainable.
+- [MySQL](https://dev.mysql.com/doc/) A reliable, high-performance relational database used for storing user information, trading data, and historical stock data. It ensures data consistency and supports complex querying.
+- [Prophet](https://facebook.github.io/prophet/) Prophet, initially developed by Facebook, is used for stock price forecasting. It provides a robust statistical model that supports both daily and long-term stock predictions.
+- [Python](https://www.python.org/) Powers the backend trading bots, integrating with APIs like Alpaca to automate stock trading operations. Python's rich ecosystem for financial analysis and automation makes it ideal for building complex trading algorithms.
+- [Alpaca](https://alpaca.markets/) Integrated as the broker for real-time stock data and executing buy/sell orders. Alpaca offers commission-free trading and a robust API that facilitates both paper trading and live trading. ExchangeXpert leverages Alpaca to fetch stock market data, manage portfolios, and automate trades through its trading bots.
 
 <br><br>
 <!-- UI UX -->
@@ -42,9 +46,9 @@
 
 
 ### Mockups
-| Home screen  | Menu Screen | Order Screen |
+| Markets screen  | Stock Screen | Login Screen |
 | ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Markets](./assets/Merkets%20page.png) | ![Stock](./assets/Merkets%20page%20of%20one%20stock.png) | ![Login](./assets/login.png) |
 
 <br><br>
 
@@ -54,28 +58,13 @@
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
 - Insert ER Diagram here
-
+![Markets](./assets/database.png)
 
 <br><br>
 
 
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
-
-
-### User Screens (Mobile)
-| Login screen  | Register screen | Landing screen | Loading screen |
-| ---| ---| ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-| Home screen  | Menu Screen | Order Screen | Checkout Screen |
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-
-### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
-| ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Menu Screen | Order Screen |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
 <br><br>
 
