@@ -1,0 +1,3 @@
+[submodule "ExchangeXpert-backend"]
+	path = ExchangeXpert-backend
+	url = https://github.com/abdallah-al-khaled/ExchangeXpert-backend.git
