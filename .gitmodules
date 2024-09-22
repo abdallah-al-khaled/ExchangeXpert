@@ -4,3 +4,6 @@
 [submodule "ExchangeXpert-frontend"]
 	path = ExchangeXpert-frontend
 	url = https://github.com/abdallah-al-khaled/ExchangeXpert-frontend.git
+[submodule "ExchangeXpert-services"]
+	path = ExchangeXpert-services
+	url = https://github.com/abdallah-al-khaled/ExchangeXpert-services.git
