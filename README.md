@@ -69,14 +69,17 @@
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
 
+| Markets screen                          | Stock Screen                                             | Wallet Screen                 |
+| --------------------------------------- | -------------------------------------------------------- | ---------------------------- |
+| ![Markets](./assets/imp1.png) | ![Stock](./assets/imp3.png) | ![Login](./assets/imp2.png) |
 <br><br>
 
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
 
-### Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
+### Mastering AI Interaction: Unveiling the Power of Transformers for Sentiment Analysis:
 
-- This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
+- This project leverages advanced transformer models to perform sentiment analysis on stock news. By carefully designing how we interact with the models, we are able to recommend stocks based on the news sentiment, providing accurate and helpful insights for decision-making.
 
 <br><br>
 
@@ -85,7 +88,7 @@
 
 ### Efficient AI Deployment: Unleashing the Potential with AWS Integration:
 
-- This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
+- This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. The backend server runs on an EC2 instance. 
 
 <br><br>
 
