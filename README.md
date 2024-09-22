@@ -97,7 +97,7 @@
 - This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
   <br><br>
   <img src="./assets/test1.png"/>
-  <img src="./assets/test2.png"/>
+  <img src="./assets/test.png"/>
   <img src="./assets/test3.png"/>
 
 <!-- How to run -->
@@ -181,7 +181,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-   
+
 4. Enter your API in `config.js`
    ```js
    const API_KEY = "ENTER YOUR API";
