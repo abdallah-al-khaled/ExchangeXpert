@@ -70,7 +70,7 @@
 
 | Markets screen                          | Stock Screen                                             |  Screen                 |
 | --------------------------------------- | -------------------------------------------------------- | ---------------------------- |
-| ![Markets](./assets/gif1.gif) | ![Stock](./assets/gif2.gif) | ![Login](./assets/gif3.gif) |
+| ![Markets](./assets/gif1.gif) | ![Stock](./assets/gif2.gif) | ![Login](./assets/gif4.gif) |
 <br><br>
 
 <!-- Prompt Engineering -->
