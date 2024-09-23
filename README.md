@@ -16,14 +16,13 @@
 #### Admin
 
 - As an admin, I want to view a list of all user accounts, so I can monitor user activity and manage the platform effectively.
-- As an admin, I want to monitor all automated trading strategies set up by users, so I can ensure compliance with platform policies.
-- As an admin, I want to send notifications to users about significant market events, so they are informed and can make timely decisions.
+- As an admin, I want to monitor all trading strategies for users.
 
 #### Normal User
 
 - As a user, I want to view recommended stocks, so I can easily find investment opportunities.
 - As a user, I want to set up automated trading strategies, so I can take advantage of market opportunities without constant monitoring.
-- As a user, I want to receive notifications for significant market events and updates on my investments, so I can stay informed and take timely actions.
+- As a user, I want to view long term forcast for a stock, so I can make a decision to buy for the long term.
 
 <br><br>
 
@@ -69,9 +68,9 @@
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
 
-| Markets screen                          | Stock Screen                                             | Wallet Screen                 |
+| Markets screen                          | Stock Screen                                             |  Screen                 |
 | --------------------------------------- | -------------------------------------------------------- | ---------------------------- |
-| ![Markets](./assets/imp1.png) | ![Stock](./assets/imp3.png) | ![Login](./assets/imp2.png) |
+| ![Markets](./assets/gif1.gif) | ![Stock](./assets/gif2.gif) | ![Login](./assets/gif3.gif) |
 <br><br>
 
 <!-- Prompt Engineering -->
