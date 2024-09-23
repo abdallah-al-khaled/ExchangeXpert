@@ -45,7 +45,7 @@
 
 > We designed Coffee Express using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
-- Project Figma design [figma](https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1)
+- Project Figma design [figma](https://www.figma.com/design/Qnl5Teok57MYaJvPVh8hOJ/ExchangeXpert?node-id=0-1&t=lG9bmBldAGV8gATP-1)
 
 ### Mockups
 
@@ -68,9 +68,12 @@
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
 
-| Markets screen                          | Stock Screen                                             |  Screen                 |
-| --------------------------------------- | -------------------------------------------------------- | ---------------------------- |
-| ![Markets](./assets/gif1.gif) | ![Stock](./assets/gif2.gif) | ![Login](./assets/gif4.gif) |
+| Markets screen                          | Stock Screen                                             | 
+| --------------------------------------- | -------------------------------------------------------- |
+| ![Markets](./assets/markets.gif) | ![Stock](./assets/stock.gif) |
+| Trading bots screen                          | Admin Screen                                             | 
+| ![Markets](./assets/bots.gif) | ![Stock](./assets/admin.gif) | 
+
 <br><br>
 
 <!-- Prompt Engineering -->
