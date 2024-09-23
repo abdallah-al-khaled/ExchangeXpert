@@ -91,6 +91,8 @@
 - This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. The backend server runs on an EC2 instance. 
 
 <br><br>
+<img src="./assets/aws1.png"/>
+<img src="./assets/aws2.png"/>
 
 <!-- Unit Testing -->
 <img src="./readme/title9.svg"/>
